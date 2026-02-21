@@ -1,0 +1,108 @@
+{
+  "round1": {
+    "description": "First round of Code212 UCA Coding League - Basic problems to get started",
+    "date": "15-11-2025",
+    "problems": [
+      {
+        "id": "1",
+        "title": "Salma's Secret Message",
+        "file": "rounds/round1/problem1.md"
+      },
+      {
+        "id": "2",
+        "title": "Abla and the Triple Coders",
+        "file": "rounds/round1/problem2.md"
+      },
+      {
+        "id": "3",
+        "title": "Fair Division",
+        "file": "rounds/round1/problem3.md"
+      },
+       {
+        "id": "4",
+        "title": "the Prime Secret",
+        "file": "rounds/round1/problem4.md"
+      },
+       {
+        "id": "5",
+        "title": "Abdelghni and the String",
+        "file": "rounds/round1/problem5.md"
+      }
+    ]
+  },
+  "round2": {
+    "description": "Second round of Code212 UCA Coding League - Intermediate problems to challenge your skills",
+    "date": "30-11-2025",
+    "problems": [
+      {
+        "id": "1",
+        "title": "Football",
+        "file": "rounds/round2/problem1.md"
+      },
+      {
+        "id": "2",
+        "title": "Maximum Distance To Port ",
+        "file": "rounds/round2/problem2.md"
+      },
+      {
+        "id": "3",
+        "title": "Salma and Abla",
+        "file": "rounds/round2/problem3.md"
+      },
+       {
+        "id": "4",
+        "title": "Abdelghani and the Cafes",
+        "file": "rounds/round2/problem4.md"
+      },
+       {
+        "id": "5",
+        "title": "Game on the Blackboard",
+        "file": "rounds/round2/problem5.md"
+      }
+    ]
+  },
+   "round3": {
+    "description": "Third round of Code212 UCA Coding League ",
+    "date": "13-12-2025",
+    "problems": [
+      {
+        "id": "1",
+        "title": "The Research Team",
+        "file": "rounds/round3/problem1.md"
+      },
+      {
+        "id": "2",
+        "title": "Optimal String Propagation",
+        "file": "rounds/round3/problem2.md"
+      },
+      {
+        "id": "3",
+        "title": "Zakaria's Book Collection",
+        "file": "rounds/round3/problem3.md"
+      },
+       {
+        "id": "4",
+        "title": "Connecting the Campus Cores",
+        "file": "rounds/round3/problem4.md"
+      },
+       {
+        "id": "5",
+        "title": "Exams again",
+        "file": "rounds/round3/problem5.md"
+      },
+      {
+        "id": "6",
+        "title": "Is Infinity a number",
+        "file": "rounds/round3/problem6.md"
+      },
+      {
+        "id": "7",
+        "title": "The Stellar Energy Core",
+        "file": "rounds/round3/problem7.md"
+      }
+    ]
+  }
+
+  
+  
+}

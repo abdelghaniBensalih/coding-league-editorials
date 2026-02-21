@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@keyframes fadeOnly {
+  0% { opacity: 0; }
+  20% { opacity: 1; }
+  80% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.animate-fadeOnly {
+  animation: fadeOnly 1.8s ease-in-out;
+}
